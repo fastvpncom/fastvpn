@@ -24,7 +24,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":558,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="379" height="1024" class="wp-image-558" src="/wp-content/uploads/2024/11/1-1-379x1024.jpg" alt="" srcset="https://site.fast.gitgogs.com/wp-content/uploads/2024/11/1-1-379x1024.jpg 379w, https://site.fast.gitgogs.com/wp-content/uploads/2024/11/1-1-111x300.jpg 111w, https://site.fast.gitgogs.com/wp-content/uploads/2024/11/1-1.jpg 403w" sizes="(max-width: 379px) 100vw, 379px"></figure>
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="379" height="1024" class="wp-image-558" src="https://site.fast.gitgogs.com/wp-content/uploads/2024/11/1-1-379x1024.jpg" alt="" srcset="https://site.fast.gitgogs.com/wp-content/uploads/2024/11/1-1-379x1024.jpg 379w, https://site.fast.gitgogs.com/wp-content/uploads/2024/11/1-1-111x300.jpg 111w, https://site.fast.gitgogs.com/wp-content/uploads/2024/11/1-1.jpg 403w" sizes="(max-width: 379px) 100vw, 379px"></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -32,7 +32,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":559,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img decoding="async" width="519" height="1024" class="wp-image-559" src="/wp-content/uploads/2024/11/2-1-519x1024.jpg" alt="" srcset="https://site.fast.gitgogs.com/wp-content/uploads/2024/11/2-1-519x1024.jpg 519w, https://site.fast.gitgogs.com/wp-content/uploads/2024/11/2-1-152x300.jpg 152w, https://site.fast.gitgogs.com/wp-content/uploads/2024/11/2-1.jpg 591w" sizes="(max-width: 519px) 100vw, 519px"></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="519" height="1024" class="wp-image-559" src="https://site.fast.gitgogs.com/wp-content/uploads/2024/11/2-1-519x1024.jpg" alt="" srcset="https://site.fast.gitgogs.com/wp-content/uploads/2024/11/2-1-519x1024.jpg 519w, https://site.fast.gitgogs.com/wp-content/uploads/2024/11/2-1-152x300.jpg 152w, https://site.fast.gitgogs.com/wp-content/uploads/2024/11/2-1.jpg 591w" sizes="(max-width: 519px) 100vw, 519px"></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
